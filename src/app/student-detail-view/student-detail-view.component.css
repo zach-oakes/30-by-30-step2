@@ -1,0 +1,20 @@
+.student-form {
+  border-style: solid;
+  padding: .5rem;
+  height: 70vh;
+}
+
+.radio-buttons {
+  margin-bottom: .625rem;
+}
+
+.flex-table {
+  display: flex;
+  justify-content: space-between;
+  margin-top: .625rem
+}
+
+.edit-add-form-title {
+  font-size: x-large;
+  margin-bottom: 1rem;
+}
